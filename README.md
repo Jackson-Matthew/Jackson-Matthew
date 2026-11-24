@@ -47,7 +47,7 @@
 | [BlastPro](https://github.com/Jackson-Matthew/FullStackDev-Wil) | Work-integrated learning group project for planning and reviewing surface blast designs, with a web workspace and an Android field notebook sharing one API | C#, ASP.NET Core, SQL Server, Kotlin |
 | [Portfolio](https://www.mattjackson.co.za) | My personal site, with a contact form, like counter and hardened security headers | Astro, React, Tailwind, Vercel |
 | [Budgie](https://github.com/Jackson-Matthew/Budgie_App) | Android app that helps users manage their income and expenses | Kotlin, Android |
-| [CABBY](https://github.com/Jackson-Matthew/Programming_ChatbotV2_ST10445830) | Cybersecurity awareness chatbot that answers questions and gives safety tips | C# |
+| [CABBY](https://github.com/Jackson-Matthew/CABBY-Chatbot) | Cybersecurity awareness chatbot that answers questions and gives safety tips | C# |
 | [TeachAndLearn](https://github.com/Jackson-Matthew/TeachAndLearn) | Platform for students and teachers | HTML, CSS |
 | [AcademicPerformanceAPI](https://github.com/Jackson-Matthew/AcademicPerformanceAPI) | Web API for academic performance data | C#, ASP.NET Core |
 
